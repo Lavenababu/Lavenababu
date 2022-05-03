@@ -2,7 +2,7 @@
 - 💻 I'm an SE IT Student in DBIT
 - 🌱 I'm currently learning Kotlin and Python
 - 📱 I'm interested in Android App Development
-- 📫 How to reach me: [Mail me](lavenababu@yahoo.com)
+- 📫 How to reach me: lavenababu@yahoo.com
 
 <!--
 **Lavenababu/Lavenababu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
