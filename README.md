@@ -5,6 +5,8 @@
 - ✨ Check out our game [Perilous Ways](https://play.google.com/store/apps/details?id=com.Teknack.PerilousWays)
 - 📫 How to reach me: lavenababu@yahoo.com
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lavenababu&theme=holi-theme&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <!--
 **Lavenababu/Lavenababu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
