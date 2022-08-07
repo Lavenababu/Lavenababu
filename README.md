@@ -1,6 +1,6 @@
 ### Hey, I'm Lavena 👋
 - 💻 I'm a TE IT Student in DBIT
-- 🌱 Currently learning Kotlin and Python
+- 🌱 Currently learning Python
 - 📱 Interested in Android and Web Development
 - ✨ Check out our game [Perilous Ways](https://play.google.com/store/apps/details?id=com.Teknack.PerilousWays)
 - 📫 How to reach me: lavenababu@yahoo.com
